@@ -1,2 +1,2 @@
 # chatbot
-le chatbot peut repondre a toutes vos question 
+le chatbot utilise l'algorithme openai pour repondre a toutes vos question 
